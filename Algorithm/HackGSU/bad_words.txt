@@ -476,3 +476,13 @@ willy
 xrated
 xxx
 redtube
+//Bad Phrases
+Whats your address?
+What's ur address?
+Where do you live?
+Where do you live
+your credit card
+How old are you
+How old r u
+How old are u
+How old r you
