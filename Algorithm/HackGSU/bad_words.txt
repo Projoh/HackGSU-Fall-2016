@@ -1,11 +1,13 @@
-//The OK words
+//The OK strings
 damn
 bloody
 bloody hell
 boob
 bum
 coon
+cut ya ass
 crap
+fatty
 fook
 goatse
 mutha
@@ -17,10 +19,12 @@ pawn
 pecker
 s.o.b
 
-//The med words, keep the empty line above this one
+//The med strings, keep the empty line above this one
+airhead
 asses
 ballbag
 balls
+bish
 piss
 pissed
 pisser
@@ -45,7 +49,7 @@ shittings
 shitty
 son-of-a-bitch
 
-//The harsh words, keep the empty line above this one
+//The harsh strings, keep the empty line above this one
 fuck
 bitch
 whore
@@ -285,7 +289,6 @@ jiz
 jizm
 jizz
 kawk
-knob
 knobead
 knobed
 knobend
@@ -434,7 +437,10 @@ slut
 sluts
 smegma
 smut
-you son-of-a-bitch
+son-of-a-bitch
+son of a bitch
+suck my cock
+suck my dick
 spac
 s_h_i_t
 t1tt1e5
@@ -476,13 +482,4 @@ willy
 xrated
 xxx
 redtube
-//Bad Phrases
-Whats your address?
-What's ur address?
-Where do you live?
-Where do you live
-your credit card
-How old are you
-How old r u
-How old are u
-How old r you
+//The strings are done, keep this line for the FileReader object
